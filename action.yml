@@ -5,7 +5,7 @@ description: >
 
 inputs:
   node-version:
-    description: 'Node.js version passed to actions/setup-node. Usually ${{ vars.NODE_VERSION }}.'
+    description: 'Node.js version passed to actions/setup-node. Pass the NODE_VERSION org/repo variable from the calling workflow.'
     required: false
     default: ''
   npm-version:
