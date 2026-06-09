@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/diplodoc-platform/setup-node-action/compare/v1.1.0...v1.1.1) (2026-06-09)
+
+
+### Bug Fixes
+
+* drop vars context from action.yml (invalid in composite manifest) ([e2ba178](https://github.com/diplodoc-platform/setup-node-action/commit/e2ba178d01ce447d99387aef2d03f8b4c6a1a4c5))
+
 ## 1.1.0 (2026-06-09)
 
 
